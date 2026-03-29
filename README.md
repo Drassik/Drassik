@@ -53,18 +53,18 @@ Welcome to my GitHub profile!
 ## 🚀 Projects
 
 ### 🔹 Completed Projects
-- **[Volume estimation with Lidar]**
+- **Volume estimation with Lidar**
   - 📄 Description: Computing the volume of waste piles in hoppers for waste management plants
-  - 🛠️ Tech Stack: [Python, Linux, C++, Git]
+  - 🛠️ Tech Stack: Python, Linux, C++, Git
 
 - **PM2.5 prediction in Turin**
   - 📄 Description: Establishing PM2.5 concentration for the upcoming week based on the weather and previous years' records
-  - 🛠️ Tech Stack: [Python: Scikit-learn, PyTorch, numpy, pandas, matplotlib]
+  - 🛠️ Tech Stack: Python: Scikit-learn, PyTorch, numpy, pandas, matplotlib
   - 🔗 Repo: [[Link](https://github.com/Drassik/PM2.5-Prediction)]
 
 - **Newspaper classification**
   - 📄 Description: Classifying newspaper articles according to the outlet, title and text
-  - 🛠️ Tech Stack: [Python: scikit-learn, numpy, pandas]
+  - 🛠️ Tech Stack: Python: scikit-learn, numpy, pandas
   - 🔗 Repo:
 
 
