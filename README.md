@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 ### 🏫 University: Politcnico di Torino
 - 📍 Turin, Italy
-- 🎓 Degree: MSC in Data Science and engineering  (Double degree) 
+- 🎓 Degree: MSc in Data Science and engineering  (Double degree) 
 - 📅 Graduation Year: 2027
 - 📚 Relevant Coursework:
   - Data manageent and visualization
@@ -73,14 +73,14 @@ Welcome to my GitHub profile!
 ### 🔸 Upcoming / In Progress Projects
 - **AWS Certification**
   - 💡Getting my basic AWS certification, possibly specializing in AWS for AI and ML
-  - 🛠️ Planned Tech: [Technologies]
+    
 
 ---
 
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: [[Boujendar Omar](https://www.linkedin.com/in/omar-boujendar/)]
-- 📧 Email: [omar.boujendar@centrale-med.fr]
+- 📧 Email: omar.boujendar@centrale-med.fr
 
 
 ---
